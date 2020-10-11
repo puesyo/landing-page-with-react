@@ -11,3 +11,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#navbarNav {
+    justify-content: flex-end;
+}
+
+.container-fluid{
+    margin-top: 10px;
+    width: auto;
+}
+
+.card {
+    height: 500px;
+}
+
+#cardBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+}
+
+footer {
+    margin-top: 25px;
+}
